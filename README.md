@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 24/10/2026
+## Reference Number: 26014662
+## Name: Kiran P
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,29 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+### Proposed Solution
+
+Farmers can upload their products with prices, and consumers can order fresh products directly from them. To reduce transportation costs, our platform will combine orders from nearby customers and find the shortest possible delivery route. This helps farmers earn better profits and consumers buy products at lower prices. The unique feature of our solution is it reduces transportation expenses, saves time, and makes direct buying easier for both farmers and consumers.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+### Technical Approach
+
+It is to develop a simple website using HTML, CSS, and JavaScript for the frontend, Python with Django for the backend, and SQLite for storing farmer details, product information, and customer orders. Farmers can upload their products with prices, and customers can select and order them. 
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+### Feasibility and Viability
+
+It is practical because we can develop the website using basic programming languages and free tools. We can first test it in a small local area with a few farmers, customers, and products before expanding it. We plan to create a simple and user-friendly website, provide basic guidance to farmers, and use shared delivery with route planning to reduce transportation costs. 
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+### Impact and Benefits
+
+It helps farmers earn better profits by selling their products directly to consumers without unnecessary middlemen. Consumers can get fresh products at affordable prices. It also supports farmers in rural areas by giving them more opportunities to sell their products. It can reduce transportation costs, save fuel, and minimize pollution. 
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+### Research and References
+
+1. e-NAM: Agricultural online marketplace.
+2. AGMARKNET: Information about crop prices.  
+3. Google Maps: To understand delivery routes.  
+   
