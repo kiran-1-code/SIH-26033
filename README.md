@@ -34,6 +34,7 @@ Farmers can upload their products with prices, and consumers can order fresh pro
 ### Technical Approach
 
 It is to develop a simple website using HTML, CSS, and JavaScript for the frontend, Python with Django for the backend, and SQLite for storing farmer details, product information, and customer orders. Farmers can upload their products with prices, and customers can select and order them. 
+![flow_chart](flowchart.png)
 
 ## Feasibility and Viability
 ### Feasibility and Viability
